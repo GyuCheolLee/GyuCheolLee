@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+It's my account for workspace.
+If you wanna know about my personality, please see [this](https://github.com/GyuCheol)
+
 <!--
 **GyuCheolLee/GyuCheolLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
