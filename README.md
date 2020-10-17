@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's my account for working at company.
+It's my account for working at company.  
 If you wanna know about my personality, please see [this](https://github.com/GyuCheol)
 
 <!--
